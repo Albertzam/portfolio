@@ -12,9 +12,6 @@ const Contact = () => {
         Email me: {`${contact.email}`}
       </span>
       <br />
-      <span type='button' className='btn btn--outline'>
-        Phone number: +526682319914
-      </span>
     </section>
   )
 }

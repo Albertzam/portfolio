@@ -12,7 +12,7 @@ const about = {
     'Hi there! Im a fullStack developer with a passion for creating robust, scalable and secure web applications. My experience includes designing and implementing APIs, microservices, databases and server-side logic and app web. As well as real-time administrative web pages.',
   // resume: 'https://example.com',
   social: {
-    linkedin: 'www.linkedin.com/in/jose-zamarripa',
+    linkedin: 'https://www.linkedin.com/in/jose-zamarripa',
     github: 'https://github.com/Albertzam',
   },
 }
